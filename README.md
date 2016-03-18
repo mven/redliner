@@ -1,6 +1,9 @@
 # redliner
 
-redliner is a unit test utility that determines if an element is obeying style requirements set by a design guide when it's rendered by a browser. This is still very much a work in progress, so if you run into any issues, please submit them.
+redliner is a Mocha test utility that determines if an element is obeying style requirements set by a design guide when it's rendered by a browser. This is still very much a work in progress, so if you run into any issues, please submit them.
+
+#### Requirements
+Node 0.12+
 
 #### Dependencies
 
@@ -34,7 +37,7 @@ In order to use redliner, you'll need at least one `.yml` file that is structure
 **Example: `btn.yml`**
 
 ```yaml
-formalName: Default Buttons
+formalName: Default Button
 className: .btn
 tests:
   - testGroup:
