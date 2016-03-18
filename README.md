@@ -1,15 +1,15 @@
 # redliner
 
-redliner is a Mocha test utility that determines if an element is obeying style requirements set by a design guide when it's rendered by a browser. This is still very much a work in progress, so if you run into any issues, please submit them.
+redliner is a Mocha test utility that determines if an element is obeying style requirements set by a design guide when it's rendered by a browser. This is still very much a work in progress, so if you run into any issues, please [submit them](https://github.com/mven/redliner/issues).
 
 #### Requirements
 Node 0.12+
 
 #### Dependencies
 
-- PhantomJS
-- Mocha
-- Chai
+- [PhantomJS for Node](https://www.npmjs.com/package/phantom)
+- [Mocha](https://www.npmjs.com/package/mocha)
+- [Chai](https://www.npmjs.com/package/chai)
 
 ## How does it work?
 
