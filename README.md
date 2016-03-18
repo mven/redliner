@@ -115,3 +115,7 @@ Create an HTML page that contains the elements you want to redline. This page ca
   </body>
 </html>
 ```
+
+#### TODOs
+- Add unit tests
+- Work on making things more modular
