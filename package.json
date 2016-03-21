@@ -1,15 +1,15 @@
 {
   "name": "assent",
   "version": "0.0.1",
-  "description": "",
+  "description": "A Mocha test utility that determines if an element is obeying style guide requirements",
   "main": "index.js",
+	"repository": {
+    "type": "git",
+    "url": "git+https://github.com/mven/redliner.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Vendivel <michael@vendivel.com> (http://vendivel.com)",
-  "license": "ISC",
-	"repository": {
-	  "type": "git",
-	  "url": "https://github.com/example/crab-season.git"
-	}
+  "license": "ISC"
 }
