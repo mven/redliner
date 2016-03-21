@@ -52,7 +52,7 @@ tests:
       fontWeight: bold
 ```
 
-Each `testGroup` is a group of tests that will be run by Mocha. `testGroup` is composed of a `testName` and CSS properties that match the DOM API properties. 
+Each `testGroup` is a group of tests that will be run by Mocha. `testGroup` is composed of a `testName` and CSS properties that match the DOM API properties.
 
 Requirements for `testGroup`:
 - `testName` must be set (this will be the `describe` of your test)
@@ -64,7 +64,7 @@ All `.yml` files should be placed inside a dedicated folder which will then be r
 
 **Example: `redliner-test.js`**
 ```javascript
-var assent = require('redliner'),
+var redliner = require('redliner'),
     path = require('path');
 
 var config = {
@@ -72,7 +72,7 @@ var config = {
   resource: path.resolve(__dirname, '../all-elements.html')
 };
 
-assent(config);
+redliner(config);
 ```
 
 The `config` object has two properties:

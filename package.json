@@ -1,7 +1,7 @@
 {
-  "name": "assent",
+  "name": "redliner",
   "version": "0.0.1",
-  "description": "A Mocha test utility that determines if an element is obeying style guide requirements",
+  "description": "redliner is a Mocha test utility that determines if an element is obeying style guide requirements",
   "main": "index.js",
 	"repository": {
     "type": "git",
