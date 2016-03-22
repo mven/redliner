@@ -11,5 +11,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Vendivel <michael@vendivel.com> (http://vendivel.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "js-yaml": "^3.5.5",
+    "phantom": "^2.0.9"
+  }
 }
