@@ -1,6 +1,6 @@
 {
   "name": "redliner",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "redliner is a Mocha test utility that determines if an element is obeying style guide requirements",
   "main": "index.js",
   "repository": {
