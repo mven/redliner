@@ -27,7 +27,7 @@ Node 0.12+
 - Create `.yml` redlines in `/test/` (see `.yml` example below)
 - Create a test file in `/test/` (see `redliner-test.js` example below)
 - Create HTML page with elements (see HTML example below)
-- 'mocha test/redliner-test.js'
+- `mocha test/redliner-test.js`
 
 ### Details
 
