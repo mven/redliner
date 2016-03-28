@@ -10,6 +10,7 @@ Node 0.12+
 - [PhantomJS for Node](https://www.npmjs.com/package/phantom)
 - [Mocha](https://www.npmjs.com/package/mocha)
 - [Chai](https://www.npmjs.com/package/chai)
+- [color-props](https://www.npmjs.com/package/color-props)
 
 ## How does it work?
 

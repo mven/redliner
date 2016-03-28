@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^3.5.0",
+    "color-props": "0.0.2",
     "js-yaml": "^3.5.5",
     "phantom": "^2.0.9"
   }
