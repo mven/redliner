@@ -55,7 +55,6 @@ tests:
       testName: Colors
       color: 'rgb(255, 255, 255)'
       backgroundColor: '#5596E6'
-      fontWeight: bold
 ```
 
 Each `testGroup` is a group of tests that will be run by Mocha. `testGroup` is composed of a `testName` and CSS properties that match the DOM API properties.
