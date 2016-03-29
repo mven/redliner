@@ -38,7 +38,7 @@ In order to use redliner, you'll need at least one `.yml` file that is structure
 **Example: `btn.yml`**
 
 ```yaml
-formalName: Default Button
+formalName: Default Buttons
 className: .btn
 tests:
   - testGroup:
@@ -50,6 +50,11 @@ tests:
   - testGroup:
       testName: Fonts
       fontSize: 14px
+      fontWeight: bold
+  - testGroup:
+      testName: Colors
+      color: 'rgb(255, 255, 255)'
+      backgroundColor: '#5596E6'
       fontWeight: bold
 ```
 
